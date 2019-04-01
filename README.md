@@ -10,5 +10,6 @@
 
 在这里也要特别感谢那些大佬们的开源，正是他们的开源让我们学习到了很多，并且慢慢进步。在我们的代码中就有一些特征用到了那些大佬开源使用的方法，真的非常感谢。
 
-比如郭达、林有夕、小兔子乖乖他们开源的这个：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
+比如郭大、林有夕、小兔子乖乖他们开源的这个：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
+
 以及鱼佬在知乎上写的文章都让我们受益匪浅。https://www.zhihu.com/people/wang-he-13-93/posts
