@@ -13,3 +13,10 @@
 比如郭大、林有夕、小兔子乖乖他们开源的这个：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
 
 以及鱼佬在知乎上写的文章都让我们受益匪浅。https://www.zhihu.com/people/wang-he-13-93/posts
+
+
+运行代码步骤及说明：
+先创建一个result的文件夹，来存放训练结果。
+src文件夹中的main.py运行模型，然后运行dealdata.py来进行模型融合。
+
+我们这个虽然构造了六套特征，但其实主要就那几个特征，构造六套特征的目的是使特征之间有差异性，使融合的效果更好。
